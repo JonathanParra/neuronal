@@ -1,9 +1,9 @@
-	
 #include <iostream>
 #include <math.h>
 #include <stdlib.h>
 #include <time.h>
-#define NUM_ENTRADAS 2
+#define NUM_ENTRADAS 2  //Cambiar este numero para cambiar las 
+                        //entradas del perceptron
  
 float entrada[NUM_ENTRADAS],
       pesos[NUM_ENTRADAS],
