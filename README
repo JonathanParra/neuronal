@@ -1,12 +1,7 @@
-Saludos a todos los que visitan este espacio.
-Este repositorio en git fue creado con el proposito de poder dejar de una manera
-flexible el codigo fuente de cada taller 
-o proyecto que se hace en el blog.
+http://sauruxum.blogspot.com
 
-Mi blog es http://sauruxum.blogspot.com
+En principio este blog tiene la finalidad de poner a dispocision material que personalmente he traducido, acerca de las redes de neurona artificiales ( conocidas con su nombre en ingles artificial neural network o ANN de ahora en adelante ).
+Tratare de dar un enfoque no tan matemático como el que podrías encontrar en un libro, ya que este no es un argumento sencillo ni siquiera para los que estudian especialisticamente estos temas ( yo soy ingeniero mecánico, por ende nunca lo hice en la universidad, lo hago por motivacion personal ).
+No pretendo ser tampoco el sustituto de un buen libro en el que podrías encontrar mucha mas información, pero a cambio de eso quiero que este tema llegue a mucha mas gente, al menos del lado teorico de las cosas.
 
-El proposito del blog es de dar a conocer el amplio y complejo campo de las
-redes neuronales, o ANN ( del ingles "artificial neural network" ) de un modo
-simplificado, de modo que llegue a mas gente que en futuro quiera saber mas
-acerca de los avances 
-en neurociencia e inteligencia artificial.
+Con este propósito y para poder dar ejemplos claros del funcionamiento de las ANN, usare dos herramientas: Matlab ( este no es específicamente un software gratuito, pero seguro que encuentras buenos demos por ahí ) y el uso del lenguaje de programacion C++
