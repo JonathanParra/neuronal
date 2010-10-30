@@ -13,7 +13,7 @@ int i;
 using namespace std;
  
 int main(){
-  srand48(time(NULL));
+  srand48(time(NULL)); //inicia el generador de numeros pseudoaleatorios
   for( i=0; i<NUM_ENTRADAS; i++ ){
   pesos[i]=drand48(); //se aplican valores aleatorios a las entradas
   }
