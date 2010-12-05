@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chaosbringer/projects/Neural/src/funciones.h
+
+/home/chaosbringer/projects/Neural/src/main.cpp
+iostream
+-
+funciones.h
+/home/chaosbringer/projects/Neural/src/funciones.h
+

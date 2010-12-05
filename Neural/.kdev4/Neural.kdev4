@@ -1,0 +1,11 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x0c\x00N\x00e\x00u\x00r\x00a\x00l)
+
+[CMake]
+BuildDirs=/home/chaosbringer/projects/Neural/build
+CMakeDir=/usr/share/cmake-2.8/Modules
+Current CMake Binary=file:///usr/bin/cmake
+CurrentBuildDir=file:///home/chaosbringer/projects/Neural/build
+CurrentBuildType=Debug
+CurrentInstallDir=
+ProjectRootRelative=./

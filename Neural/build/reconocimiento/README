@@ -1,0 +1,38 @@
+Este es el tipico ejemplo del uso de las redes neuronales para el
+reconocimiento de patrones visuales.
+Aviso desde ya que aun no me adapto al uso de librerias graficas,
+por lo tanto para ingresar los patrones se hace por teclado por 
+cada punto como si fuera un bitmap.
+Este ejemplo reconoce los numeros del 0 al 9 por medio de una 
+matriz de 3x5 puntos. Ejemplos de los patrones de reconocimiento
+son:
+
+Numero 0:
+
+   1 1 1
+   1 0 1
+   1 0 1
+   1 0 1
+   1 1 1
+
+Numero 2:
+
+   1 1 1
+   0 0 1
+   1 1 1
+   1 0 0
+   1 1 1
+
+Estos valores en el ejemplo se deben poner sequencialmente, por ejemplo
+para el 2:
+
+1 1 1 0 0 1 1 1 1 1 0 0 1 1 1
+
+Lo se que puede resultar molesto este metodo de ingreso de datos,
+pero quiero tener mi aplicacion como una aplicacion de proposito general.
+Si alguno sabe usar librerias graficas, ya sabe que puede copiar libremente
+mi programa y adaptarlo a sus gustos, aumentar la complejidad de
+la matriz es sencillo ( basta aumentar el numero de entradas ) y
+activar la salida de valores finitos. Es posible extender este ejemplo
+para que reconosca tambien letras, pero en ese caso por causa de
+la matriz usada hay que aumentar el numero de entradas.

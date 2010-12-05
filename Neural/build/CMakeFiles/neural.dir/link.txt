@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/neural.dir/src/main.cpp.o CMakeFiles/neural.dir/src/red.cpp.o CMakeFiles/neural.dir/src/funciones.cpp.o  -o neural -rdynamic 

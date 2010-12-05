@@ -1,0 +1,13 @@
+La funcion logica XOR en el mundo de las redes neuronales es como
+el "hello world" de la programacion.
+Quien conoce la teoria del perceptron simple sabe que no es capaz
+de resolver problemas "no separables linealmente" ( la teoria la
+puedes consultar en mi blog ) y este fue el logro de las redes tipo
+MLP ( multilayer perceptron )
+En el archivo de patrones hay 4 muestras de 2 entradas y 1 salida
+que siguen el andamiento de la funcion XOR.
+Esta aplicacion ha sido testeada con todas las funciones logicas
+que puedas imaginar, solo una cosa de tener en cuenta si deseas
+experimentar: la capa oculta en las funciones logicas es la suma
+de las entradas mas las salidas ( puede ser menor, pero el 
+rendimiento es mejor de este modo ).

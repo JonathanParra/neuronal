@@ -1,0 +1,7 @@
+En este ejemplo se intenta emular la funcion seno, en el dominio
+de 0 a 90 grados.
+En el patron de entrenamiento se ponen patrones de los senos de
+cada 5 grados y se entrena la red, obteniendo una salida con un
+error medio cuadratico maximo de 0.03 en las pruebas ( quiza mas,
+cerca de los 90 grados, ya que la funcion sigmoidal adopta el 
+valor 1 solo con una entrada infinita... ) 
